@@ -9,8 +9,8 @@ with open("D:\[CMPE103] OOP\Line_Adder\\mylife.txt", "w") as source:
         line=input("Enter line:")
         source.write(line+"\n")
         choice = input("Are there more lines? y/n")
+        source.write(choice+"\n")
         if "y" in choice.lower():
-            source.write(choice+"\n")
             continue
         else:
             sys.exit()

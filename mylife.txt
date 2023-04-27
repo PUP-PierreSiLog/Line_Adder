@@ -1,5 +1,6 @@
-Are you mocking me?
+Beautiful is better than ugly.
 y
-Of course not!
+Explicit is better than implicit.
 y
-Why then?
+Simple is better than complex.
+n
